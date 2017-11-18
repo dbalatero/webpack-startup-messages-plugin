@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dbalatero/webpack-startup-messages-plugin/issues"
   },
-  "homepage": "https://github.com/dbalatero/webpack-startup-messages-plugin#readme"
+  "homepage": "https://github.com/dbalatero/webpack-startup-messages-plugin#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
