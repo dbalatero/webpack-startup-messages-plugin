@@ -1,0 +1,23 @@
+{
+  "name": "webpack-startup-messages-plugin",
+  "version": "1.0.0",
+  "description": "Lets you output messages when Webpack starts a new build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbalatero/webpack-startup-messages-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "David Balatero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbalatero/webpack-startup-messages-plugin/issues"
+  },
+  "homepage": "https://github.com/dbalatero/webpack-startup-messages-plugin#readme"
+}
